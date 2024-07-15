@@ -8,14 +8,23 @@
 
 -----------------------------------------------Steps to Test the Functionality--------------------------------------------------------
 1.Open the project in Unity.
+
 2.Press Ctrl+B to build the game.
+
 3.Open the UnityParthAssignment.exe file.
+
 4.Create a room with a random name.
+
 5.In the build instance, enter the same room name and click on the "Join" button.
+
 6.You will now be able to play together.
+
 Make sure the following prerequisites are met before testing:
 
 *Ensure that Photon and Agora SDKs are correctly set up in the project.
+
 *Verify that your network settings allow connections between players.
+
 *Ensure that the build is correctly configured to connect to Photon servers.
+
 By following these steps, you can test the multiplayer functionality of your Unity project.
